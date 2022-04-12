@@ -8,6 +8,7 @@ torch 1.1+cu111
 ```
 
 ## 数据集
+数据集来自THUCTC：http://thuctc.thunlp.org/<br>
 文本类别涉及10个类别：categories = ['体育', '财经', '房产', '家居', '教育', '科技', '时尚', '时政', '游戏', '娱乐']<br>
 cnews.train.txt: 训练集(5000*10)<br>
 cnews.val.txt: 验证集(500*10)<br>

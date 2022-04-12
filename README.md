@@ -58,6 +58,6 @@ python run.py train/test FGSM/PGD/FREE/baseline
 
 # Reference
 
-1.[FAST IS BETTER THAN FREE: REVISITING ADVERSARIAL TRAINING](https://arxiv.org/pdf/2001.03994.pdf)
-2.https://github.com/locuslab/fast_adversarial
-3.[Adversarial Training Methods for Semi-Supervised Text Classification.](https://arxiv.org/pdf/1605.07725.pdf)
+1.[FAST IS BETTER THAN FREE: REVISITING ADVERSARIAL TRAINING](https://arxiv.org/pdf/2001.03994.pdf)<br>
+2.https://github.com/locuslab/fast_adversarial<br>
+3.[Adversarial Training Methods for Semi-Supervised Text Classification.](https://arxiv.org/pdf/1605.07725.pdf)<br>
